@@ -1,2 +1,2 @@
 # Dev-Hub-101
-THIS WAS A EVENT IN 2023 techsphere
+This was an event called TECHSPHERE IN 2023
